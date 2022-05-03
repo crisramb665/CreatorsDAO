@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/nombre-del-repositorio/static/css/main.e5939a50.chunk.css",
+    "main.js": "/nombre-del-repositorio/static/js/main.6d60f551.chunk.js",
+    "main.js.map": "/nombre-del-repositorio/static/js/main.6d60f551.chunk.js.map",
+    "runtime-main.js": "/nombre-del-repositorio/static/js/runtime-main.2353f6b3.js",
+    "runtime-main.js.map": "/nombre-del-repositorio/static/js/runtime-main.2353f6b3.js.map",
+    "static/js/2.dec8a867.chunk.js": "/nombre-del-repositorio/static/js/2.dec8a867.chunk.js",
+    "static/js/2.dec8a867.chunk.js.map": "/nombre-del-repositorio/static/js/2.dec8a867.chunk.js.map",
+    "index.html": "/nombre-del-repositorio/index.html",
+    "precache-manifest.16b515aa1806829f12f03afcbacc34b7.js": "/nombre-del-repositorio/precache-manifest.16b515aa1806829f12f03afcbacc34b7.js",
+    "service-worker.js": "/nombre-del-repositorio/service-worker.js",
+    "static/css/main.e5939a50.chunk.css.map": "/nombre-del-repositorio/static/css/main.e5939a50.chunk.css.map",
+    "static/js/2.dec8a867.chunk.js.LICENSE.txt": "/nombre-del-repositorio/static/js/2.dec8a867.chunk.js.LICENSE.txt",
+    "static/media/svg-1.svg": "/nombre-del-repositorio/static/media/svg-1.715313cd.svg",
+    "static/media/svg-2.svg": "/nombre-del-repositorio/static/media/svg-2.4a122f73.svg",
+    "static/media/svg-3.svg": "/nombre-del-repositorio/static/media/svg-3.d9e440a5.svg",
+    "static/media/video.mp4": "/nombre-del-repositorio/static/media/video.72ed5715.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2353f6b3.js",
+    "static/js/2.dec8a867.chunk.js",
+    "static/css/main.e5939a50.chunk.css",
+    "static/js/main.6d60f551.chunk.js"
+  ]
+}
